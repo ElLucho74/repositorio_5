@@ -11,5 +11,6 @@
     <h1>Soy el Index modificado desde Vs code Local</h1>
     <h1>Nashe</h1>
     <h2>Esta modificacion la hizo un colaborador</h2>
+    <h1> buenas </h1>
 </body>
 </html>
